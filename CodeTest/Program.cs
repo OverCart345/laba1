@@ -65,8 +65,7 @@ namespace CodeTest
 
             for (int main_I = 0; main_I < kolvo; main_I++) 
             {
-              if(main_I % 100 == 0)
-                    Console.WriteLine(main_I);
+              
               
 
                 if (vrasheniya[main_I][0] == 1 && vrasheniya[main_I][1] == start_X) //////////////////////// X
